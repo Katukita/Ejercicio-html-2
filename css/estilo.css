@@ -1,4 +1,9 @@
 body {
 
-    color:red;
+    background-color:rgb(75, 2, 2);
+}
+
+p {
+
+    color: yellowgreen;
 }
